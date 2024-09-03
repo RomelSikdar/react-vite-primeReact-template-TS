@@ -53,4 +53,9 @@ export default tseslint.config({
 
 To change the prime react theme just modify theme import in `theme.css` and `theme-dark.css` located in public theme with the theme you want to use in your application.
 
+**Default Theme configuration**
+
+- Theme ID : `theme-css`
+- Theme name : `light`
+
 **Note:** Remove the unnecessary theme folders from the public theme folder to run the application in much more efficient way.
